@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ziadd1
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning java, python, haskell, prolog and c
+- 🌱 I’m currently learning java, python, haskell, prolog, c, javascript,react,node js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ziadtt5@gmail.com
 
